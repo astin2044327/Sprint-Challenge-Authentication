@@ -8,7 +8,7 @@ In this challenge, you build a real wise-guy application. _Dad jokes_ are all th
 
 **Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**
 
-This is an individual assessment, please work on it alone. It is an opportunity to demonstrate proficiency in the concepts and objectives introduced and practiced in preceding days.
+This is an individual assessment, please work on it alone. Yes work it alone. It is an opportunity to demonstrate proficiency in the concepts and objectives introduced and practiced in preceding days.
 
 If the instructions are not clear, please seek support from your TL and Instructor on Slack.
 
